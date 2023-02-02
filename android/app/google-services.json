@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19469369314",
+    "project_id": "kindershala-29469",
+    "storage_bucket": "kindershala-29469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19469369314:android:65f1b5e84601e70954c3bb",
+        "android_client_info": {
+          "package_name": "com.devlomatix.kindershala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19469369314-jhb4qfj85j1od1risi5l8bg92tfdmom3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1nSBbOCLSElQhZ0PG59_lyJJ5hZ7Qmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19469369314-jhb4qfj85j1od1risi5l8bg92tfdmom3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
